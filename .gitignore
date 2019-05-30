@@ -3,6 +3,9 @@
 # Web IDE
 /.idea
 
+# packages
+package-lock.json
+
 # dependencies
 /node_modules
 /.pnp

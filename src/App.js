@@ -1,10 +1,10 @@
 import React from 'react';
-import Board from './Board';
+import TodoList from './TodoList';
 
 function App() {
   return (
     <div>
-      <Board />
+      <TodoList />
     </div>
   );
 }
